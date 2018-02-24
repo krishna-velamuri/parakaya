@@ -1,0 +1,35 @@
+﻿section .container
+{
+    padding:5%;
+}
+.navbar-brand
+{
+	color:#CFCFCF !important;
+	font-size: 33px;
+	line-height: 1.2em;
+}
+.navbar-brand span
+{
+	color:#8B0000 !important;
+}
+.center
+{
+    text-align:center;
+}
+.head1
+{
+    font-family: 'Segoe UI',bodoni-poster-w10,fantasy;
+    font-size: 56px;
+    color:#FFF;
+    line-height:1.21em;
+    font-weight:bold;
+}
+.head2
+{
+    font-family: 'Segoe UI Emoji';
+    font-size:35px;
+    color:#606060;
+    line-height:1.24em;
+}
+.row{margin:2% 0 0 2% !important;}
+label b{margin-left:10px;;}
